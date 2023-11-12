@@ -49,7 +49,7 @@ Eu vou até o castelo do Rei das Cores, e assumir a cor suprema pra mim!</i>
         <sub>
           <b>André Hanazaki Peroni</b>
         </sub><br>
-        Diretor de Música
+        Música
       </a>
     </td>
     <td align="center">
@@ -76,7 +76,7 @@ Eu vou até o castelo do Rei das Cores, e assumir a cor suprema pra mim!</i>
         <sub>
           <b>Vicente Tavares Alves Ferreira</b>
         </sub><br>
-        Diretor de Arte
+        Arte
       </a>
     </td>
     <td align="center">
