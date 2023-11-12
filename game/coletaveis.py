@@ -1,5 +1,5 @@
-from entidades import *
-from poderes import *
+from .entidades import *
+from .poderes import *
 
 ##### ITENS DOS PODERES NO MAPA #####
 class Coletavel(Estatico):

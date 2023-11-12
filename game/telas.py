@@ -1,12 +1,12 @@
 #from prototipo.menu import Musica
 import pygame
-from jogador import Jogador
-from mapa import Mapa
-from menu import *
-from poderes import *
-from entidades import classes_instanciaveis, renderizar_hitbox
-from DAOjogo import DAOJogo
-from efeitosrender import *
+from .jogador import Jogador
+from .mapa import Mapa
+from .menu import *
+from .poderes import *
+from .entidades import classes_instanciaveis, renderizar_hitbox
+from .DAOjogo import DAOJogo
+from .efeitosrender import *
 
 dicionaro_mapa = DAOJogo.mapas
 

@@ -1,5 +1,5 @@
 run:
-	@python3 jogo.py
+	@python3 main.py
 
 clean:
 	@rm -rf __pycache__

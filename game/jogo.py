@@ -1,21 +1,20 @@
 import pygame, random, json
-from mapa import *
-from menu import *
-from efeitosrender import *
-from telas import *
-
+from .mapa import *
+from .menu import *
+from .efeitosrender import *
+from .telas import *
 
 class Jogo:
     def __init__(self):
         ###### INFORMACOES TA TELA ######
         try:
-            configs = json.load(open("configs.json","r"))
+            configs = json.load(open("data/configs.json","r"))
         except FileNotFoundError:
             configs = {"resolucao":[1000,600],
                 "musica":1,
                 "efeitos":1,
                 "telacheia":False}
-            json.dump(configs,open("configs.json","w"))
+            json.dump(configs,open("data/configs.json","w"))
         
         (width, height) = configs["resolucao"]  # Tamanho da tela
         pygame.mixer.music.set_volume(configs["musica"])
@@ -55,8 +54,3 @@ class Jogo:
                 except TypeError:
                     "onaji desu"
             self.__relogio.tick(60)
-
-pygame.init()
-pygame.mixer.music.load('musica_fundo.ogg')
-jogo = Jogo()
-jogo.menu_inicial()

@@ -1,6 +1,6 @@
 # Arquivos com as classes abstratas do jogo
 import pygame
-from sprites import *
+from .sprites import *
 
 colisao_analisada = "0"
 renderizar_hitbox = False

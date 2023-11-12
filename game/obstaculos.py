@@ -1,6 +1,6 @@
 import pygame
-from entidades import *
-from sprites import *
+from .entidades import *
+from .sprites import *
 
 
 # FUNCOES DE ATUALIZAR NECESSITAM DA AREA VISIVEL PARA RENDERIZAR CORRETAMENTE

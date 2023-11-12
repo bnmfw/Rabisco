@@ -1,4 +1,4 @@
-from entidades import *
+from .entidades import *
 import pygame
 
 class Hud:

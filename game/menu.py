@@ -1,5 +1,5 @@
 import pygame
-from efeitosrender import *
+from .efeitosrender import *
 
 class Janela:
     """Classe que segura a tela atual,

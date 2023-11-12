@@ -1,12 +1,11 @@
 import pygame
 import math
-from entidades import *
-from obstaculos import *
-from inimigos import *
-from time import sleep
-from sprites import *
+from .entidades import *
+from .obstaculos import *
+from .inimigos import *
+from .sprites import *
 from random import randrange
-
+from time import sleep
 
 ##### PODERES NO JOGADOR #####
 class PoderGenerico:

@@ -1,9 +1,9 @@
-from obstaculos import *
-from inimigos import *
-from poderes import *
-from rei import *
-from jogador import Jogador
-from hud import *
+from .obstaculos import *
+from .inimigos import *
+from .poderes import *
+from .rei import *
+from .jogador import Jogador
+from .hud import *
 
 
 class Mapa:

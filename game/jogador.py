@@ -1,10 +1,10 @@
 import pygame
-from obstaculos import *
-from entidades import gravidade, colisao_analisada, renderizar_hitbox, renderizar_sprite
-from inimigos import Bolota,Gelatina,Temporal
-from coletaveis import *
-from poderes import *
-from sprites import Sprite
+from .obstaculos import *
+from .entidades import gravidade, colisao_analisada, renderizar_hitbox, renderizar_sprite
+from .inimigos import Bolota,Gelatina,Temporal
+from .coletaveis import *
+from .poderes import *
+from .sprites import Sprite
 
 
 class Jogador(Movel):

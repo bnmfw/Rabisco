@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/bnmfw/Desktop/UFSC/Materias/2020-2/POO2/JOGO/versao_final/ORiscoDoRabisco/venv"
+set -gx VIRTUAL_ENV "/home/bnmfw/Desktop/UFSC/Rabisco/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

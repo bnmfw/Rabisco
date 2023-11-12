@@ -1,8 +1,8 @@
 # Arquivo destinado a fazer todos os inimigos
 import pygame
-from entidades import *
-from poderes import *
-from coletaveis import *
+from .entidades import *
+from .poderes import *
+from .coletaveis import *
 from random import randrange
 
 
