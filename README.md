@@ -44,7 +44,7 @@ Eu vou até o castelo do Rei das Cores, e assumir a cor suprema pra mim!</i>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/bnmfw">
+      <!-- <a href="https://github.com/bnmfw"> -->
         <img src="extra/.andre.jpg" width="100px;" alt="Foto do André Hanazaki Peroni"/><br>
         <sub>
           <b>André Hanazaki Peroni</b>
@@ -61,8 +61,6 @@ Eu vou até o castelo do Rei das Cores, e assumir a cor suprema pra mim!</i>
         Desenvolvedor
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/yokiyoki87">
         <img src="https://avatars.githubusercontent.com/u/78426028?v=4" width="100px;" alt="Foto do Bernardo Borges Sandoval no GitHub"/><br>
@@ -82,7 +80,7 @@ Eu vou até o castelo do Rei das Cores, e assumir a cor suprema pra mim!</i>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/LucasYuki">
+      <!-- <a href="https://github.com/LucasYuki"> -->
         <img src="https://avatars.githubusercontent.com/u/78425256?v=4" width="100px;" alt="Foto do Victor Cunha Imamura no GitHub"/><br>
         <sub>
           <b>Victor Cunha</b>
